@@ -1,0 +1,4 @@
+pip install opencv-python==4.9.0.80
+pip install mediapipe==0.10.9
+pip install math
+pip install pyautogui==0.9.54
